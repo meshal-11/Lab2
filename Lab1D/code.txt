@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Bear</title>
+</head>
+<body>
+    <h1>The Brown Bear</h1>
+    <p>The brown bear (Ursus arctos) is found in parts of Eurasia and North America. Its conservation status is currently listed as Least Concern, and several subspecies of brown bear exist in different regions.</p>
+    <a href="https://en.wikipedia.org/wiki/Brown_bear">Learn More</a>
+    <p>Here are some bear species:</p>
+    <ul>
+        <li>Arctos</li>
+        <li>Collarus</li>
+        <li>Horribilis</li>
+        <li>Nelsoni (extinct)</li>
+    </ul>
+    <p>The following countries have some of the largest populations of brown bears:</p>
+    <ol>
+        <li>Russia</li>
+        <li>United States</li>
+        <li>Canada</li>
+    </ol>
+    <img src="bear.jpg" alt="Brown Bear">
+</body>
+</html>
